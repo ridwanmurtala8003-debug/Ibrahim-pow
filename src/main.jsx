@@ -47,6 +47,8 @@ const skills = [
   "AI Agents",
   "LLM Integration",
   "Telegram Bots",
+  "Community Raiding",
+  "Community Moderation",
   "Deployment",
   "Private Repo Work",
   "Startup Execution",
@@ -149,18 +151,18 @@ function App() {
         >
           <div className="mb-6 inline-flex items-center gap-2 rounded-full border border-lime-300/20 bg-lime-300/10 px-4 py-2 text-sm text-lime-200">
             <Sparkles className="h-4 w-4" />
-            Proof of Work • AI × Web3 Developer
+            Proof of Work • Full Stack Dev • Raider • Moderator
           </div>
 
           <h1 className="max-w-4xl text-5xl font-black leading-[0.95] tracking-tight md:text-7xl">
-            I build catchy, useful, and scalable
+            I'm a Full Stack Developer,
             <span className="bg-gradient-to-r from-lime-300 via-cyan-300 to-pink-400 bg-clip-text text-transparent">
-              {" "}Web3 websites.
+              {" "}Raider & Moderator.
             </span>
           </h1>
 
           <p className="mt-6 max-w-2xl text-lg leading-relaxed text-white/65 md:text-xl">
-            Full-stack developer focused on crypto dashboards, blockchain intelligence tools, AI agents, Telegram bots, and product experiences that feel alive.
+            Full-stack developer, community raider, moderator, and Web3 builder — focused on crypto dashboards, blockchain intelligence tools, AI agents, Telegram bots, and product experiences that feel alive.
           </p>
 
           <div className="mt-8 flex flex-wrap gap-4">
@@ -304,7 +306,7 @@ function App() {
           <Bot className="mx-auto h-12 w-12 text-lime-300" />
           <h2 className="mt-6 text-4xl font-black md:text-6xl">Need a Web3 builder?</h2>
           <p className="mt-5 text-lg leading-relaxed text-white/60">
-            I am available for Web3 developer roles, AI dashboard builds, blockchain analytics platforms, Telegram automation, and technical contributor positions.
+            I am available for full-stack Web3 developer roles, AI dashboard builds, blockchain analytics platforms, Telegram automation, community raiding, moderation, and technical contributor positions.
           </p>
           <div className="mt-8 flex flex-wrap justify-center gap-4">
             <a href={contacts.x} target="_blank" rel="noreferrer" className="rounded-full border border-white/10 bg-white/[0.05] px-6 py-3 font-semibold transition hover:bg-white/10">
