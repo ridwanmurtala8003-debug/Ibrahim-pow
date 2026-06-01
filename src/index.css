@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: #05050a;
+}
+
+::selection {
+  background: #bef264;
+  color: #05050a;
+}
